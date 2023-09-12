@@ -9,7 +9,8 @@ Repositório para armazenas resumos sobre Git e GitHub do curso de Versionamento
 ## Resumos das Aulas
 |Aulas|Resumos|
 |-----|-------|
-|Aula 1|Resumo 11
+|Aula 1|Resumo 1|
+Aula 2|Resumo 2|
 
 ```
 Caixa de Código
